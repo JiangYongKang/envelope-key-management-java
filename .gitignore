@@ -37,3 +37,7 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+### 本地模拟存储 ###
+local-data/
+
