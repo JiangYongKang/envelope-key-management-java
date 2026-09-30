@@ -37,3 +37,5 @@ build/
 
 ### Mac OS ###
 .DS_Store
+# 本地密钥与审计文件
+data/
